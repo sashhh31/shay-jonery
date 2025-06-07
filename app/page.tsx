@@ -124,7 +124,7 @@ export default function Home() {
 
       {/* About Us Section */}
       <section className="bg-[#f5f5f0] py-16 relative">
-      <div className="absolute right-0 top-0 h-full w-[300px] bg-contain bg-no-repeat bg-right" style={{ backgroundImage: 'url("/ornament.png")' }} />
+      <div className="absolute right-0 top-0 h-full w-[300px] bg-contain bg-no-repeat bg-right" style={{ backgroundImage: 'url("/Ornament.png")' }} />
       <div className="max-w-7xl mx-auto px-6 relative z-10">
         <p className="text-[#b46931] font-medium mb-2">Our Services</p>
         <h2 className="text-3xl font-bold text-[#1b1b1b] mb-4">
